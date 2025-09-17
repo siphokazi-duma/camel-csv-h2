@@ -58,6 +58,3 @@ mvn test
 - Swagger (Springdoc OpenAPI)
 - Docker
 - JUnit
-
-## 📄 License
-This project is licensed under the MIT License.
